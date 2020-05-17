@@ -1,0 +1,12 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "Tatsuya0105 <tatsuya.h080105@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.13.1",
+    "graphql": "^15.0.0"
+  }
+}
